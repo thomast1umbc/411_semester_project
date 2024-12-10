@@ -4,4 +4,4 @@ z80 cpu.
 Code Citation:
 - The project includes code for basic CPU operatoins and emulations patterns
 referenced from
-    * the z80 cpu user manual
+    * https://userpages.cs.umbc.edu/lsebald1/cmsc411-fa2024/project.shtml
